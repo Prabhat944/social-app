@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+}
+.sidebar{
+    flex:3;
+
+    
+}
+.feed{
+    flex:5.5;
+
+}
+.rightbar{
+    flex:3.5;
+
+}
